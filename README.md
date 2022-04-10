@@ -52,4 +52,4 @@ On the Destination Select screen, select Install for me only.
 
 7. A successful installation displays the following screen:
 
-
+![](osx-install-success.png)
