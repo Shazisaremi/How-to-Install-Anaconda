@@ -46,5 +46,5 @@
 
 On the Destination Select screen, select Install for me only.
 
-![](
+![](osx-install-type.png)
 
