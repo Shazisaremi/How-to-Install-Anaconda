@@ -14,4 +14,6 @@
 
 7. Select a destination folder to install Anaconda and click the Next button.
 
+![](win-install-destination.png)
+
 
