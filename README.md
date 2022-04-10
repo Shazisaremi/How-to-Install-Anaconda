@@ -16,4 +16,12 @@
 
 ![](win-install-destination.png)
 
+8. Choose whether to add Anaconda to your PATH environment variable. We recommend not adding Anaconda to the PATH environment variable, since this can interfere with other software. Instead, use Anaconda software by opening Anaconda Navigator or the Anaconda Prompt from the Start Menu.
+
+
+9. Choose whether to register Anaconda as your default Python. Unless you plan on installing and running multiple versions of Anaconda or multiple versions of Python, accept the default and leave this box checked.
+
+10. Click the Install button. If you want to watch the packages Anaconda is installing, click Show Details.
+
+11. Click the Next button.
 
