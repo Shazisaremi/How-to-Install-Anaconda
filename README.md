@@ -48,3 +48,8 @@ On the Destination Select screen, select Install for me only.
 
 ![](osx-install-type.png)
 
+6. Click the continue button.
+
+7. A successful installation displays the following screen:
+
+
