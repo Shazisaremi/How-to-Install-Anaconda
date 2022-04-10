@@ -30,3 +30,19 @@
 
 12. After a successful installation you will see the “Thanks for installing Anaconda” dialog box:
 
+## MacOS
+
+1. Download the [graphical macOS installer](https://www.anaconda.com/products/distribution#macos) for your version of Python.
+
+2. Double-click the downloaded file and click continue to start the installation.
+
+3. Answer the prompts on the Introduction, Read Me, and License screens.
+
+4. Click the Install button to install Anaconda in your ~/opt directory (recommended):
+
+![](https://www.anaconda.com/products/distribution#macos)
+
+5. OR, click the Change Install Location button to install in another location (not recommended).
+
+On the Destination Select screen, select Install for me only.
+
