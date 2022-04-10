@@ -40,9 +40,11 @@
 
 4. Click the Install button to install Anaconda in your ~/opt directory (recommended):
 
-![](https://www.anaconda.com/products/distribution#macos)
+![](osx-install-destination.png)
 
 5. OR, click the Change Install Location button to install in another location (not recommended).
 
 On the Destination Select screen, select Install for me only.
+
+![](
 
